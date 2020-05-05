@@ -1,0 +1,12 @@
+{
+  "Name": "HoloStickInputConfiguration",
+  
+  "UDPConnections": 
+  [
+    {
+      "Name": "HoloStickInputConnection1",
+      "IPString": "127.0.0.1",
+      "Port": 74
+    }
+  ]
+}
